@@ -1,4 +1,4 @@
-# 🧠 Skin Disease Classifier (CNN)
+# 🧠 Deep Learning Based Skin Disease Classification With Preprocessing And Conference Thresholding
 
 This project classifies **skin disease images** using a **Convolutional Neural Network (CNN)** built with TensorFlow and Keras.
 
